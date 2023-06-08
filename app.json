@@ -1,0 +1,9 @@
+{
+  "name": "ITEducationApp",
+  "displayName": "ITEducationApp",
+  "extra": {
+    "eas": {
+      "projectId": "a8d446ad-5775-4500-b578-20fec7b76f69"
+    }
+  }
+}
